@@ -2,40 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d731ead5-3164-4a9d-8536-74f803c27cd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../12_Robots/Comunicacion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12_Robots/Control.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12_Robots/Modulo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12_Robots/ModuloEstatico.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12_Robots/ModuloHelicoidal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12_Robots/ModuloRotacion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12_Robots/ModuloTraslacion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12_Robots/Motor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12_Robots/MotorRotacion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12_Robots/MotorTraslacion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12_Robots/Robot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12_Robots/RobotsSimulacion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12_Robots/Sensor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../13_Dinosaurios/Aldea.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../13_Dinosaurios/Constantes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../13_Dinosaurios/Depredador.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../13_Dinosaurios/Dinosaurio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../13_Dinosaurios/DinosauriosSimulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../13_Dinosaurios/Factorias/FactoriaAldea.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../13_Dinosaurios/Rex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../13_Dinosaurios/Spinosaurus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../13_Dinosaurios/Triceraptors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../14_Pandemia/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../14_Pandemia/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../14_Pandemia/Constantes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../14_Pandemia/Factorias/FactoriaOficina.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../14_Pandemia/Individuo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../14_Pandemia/Infectado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../14_Pandemia/Oficina.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../14_Pandemia/RavenSimulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../14_Pandemia/Sano.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Zombies/Humano.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../11_Zombies/Humano.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../11_Zombies/ZombiesSimulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../11_Zombies/ZombiesSimulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicios recuperación/1_listas/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicios recuperación/1_listas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicios recuperación/1_listas/dos_listas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/4_nuevaslistas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/4_nuevaslistas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616490892928</updated>
       <workItem from="1616490894685" duration="571000" />
+      <workItem from="1617654323706" duration="3281000" />
     </task>
     <servers />
   </component>
@@ -108,6 +81,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/4_nuevaslistas$nuevasListas.coverage" NAME="nuevasListas Coverage Results" MODIFIED="1616490925980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

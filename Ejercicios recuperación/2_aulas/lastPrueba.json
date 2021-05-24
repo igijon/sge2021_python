@@ -1,0 +1,33 @@
+{
+  "DAM2": {
+    "profesores": {
+      "12345678A": {
+        "nombre": "Pepe",
+        "fecha_nacimiento": "13-01-1800",
+        "fecha_incorporacion": "13-09-1900"
+      }
+    },
+    "asignaturas": {
+      "DI": {
+        "nombre": "Dise\u00f1o de Interfaces",
+        "profesor": "12345678A"
+      }
+    },
+    "alumnos": {
+      "123456AA": {
+        "nombre": "Mar\u00eda",
+        "fecha_nacimiento": "13-03-1998",
+        "asignaturas": [
+          "DI"
+        ]
+      },
+      "222222B": {
+        "nombre": "Marcos",
+        "fecha_nacimiento": "13-03-1998",
+        "asignaturas": [
+          "DI"
+        ]
+      }
+    }
+  }
+}

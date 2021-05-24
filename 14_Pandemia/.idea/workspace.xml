@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06c04678-9e41-4e06-86e1-2827a3ce81a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ejercicios recuperación/1_listas/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios recuperación/1_listas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios recuperación/1_listas/dos_listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios recuperación/2_aulas/Aula.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios recuperación/2_aulas/aulas.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/14_Pandemia.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/14_Pandemia.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Secuencias/4_nuevaslistas/.idea/4_nuevaslistas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Secuencias/4_nuevaslistas/.idea/4_nuevaslistas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Secuencias/4_nuevaslistas/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Secuencias/4_nuevaslistas/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Secuencias/4_nuevaslistas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Secuencias/4_nuevaslistas/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qy670ShRiXyN6WETTW6LMHsdD9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ejercicios recuperación/2_aulas" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Ejercicios recuperación/2_aulas" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06c04678-9e41-4e06-86e1-2827a3ce81a3" name="Default Changelist" comment="" />
+      <created>1618039311921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618039311921</updated>
+      <workItem from="1618039313124" duration="1022000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

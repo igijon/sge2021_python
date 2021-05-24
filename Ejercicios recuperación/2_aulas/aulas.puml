@@ -1,0 +1,59 @@
+@startuml aula
+
+Persona <|-- Alumno
+Persona <|-- Profesor
+Aula "1" o-- "0..*" Alumno
+Aula "1" o-- "0..*" Profesor
+Aula "1" o-- "0..*" Asignatura
+Asignatura "0..*" <-- "1" Alumno : se_matricula
+Asignatura "0..*" <-- "1" Profesor: imparte
+
+
+class Aula {
+   - str codigo
+   + add_asignatura(a: Asignatura)
+   + asignatura_en_curso(a: Asignatura): Boolean
+   + remove_asignatura(a: Asignatura)
+   + get_asignatura(a: Asignatura): Asignatura
+   + add_alumno(a: Alumno)
+   + esta_alumno_en_curso(a: Alumno): Boolean
+   + remove_alumno(a: Alumno)
+   + add_profesor(p: Profesor)
+   + esta_profesor_en_curso(p: Profesor): Boolean
+   + remove_profesor(p: Profesor)
+   + get_profesor(p: Profesor): Profesor
+   + to_dictionary(): Dictionary
+}
+
+class Asignatura {
+   - str codigo
+   - str nombre
+   + to_dictionary(): Dictionary
+}
+
+class Persona {
+   - str dni
+   - str nombre
+   - Date fecha_nacimiento
+   + to_dictionary(): Dictionary
+}
+
+class Alumno {
+    + matricular_asignatura(a: Asignatura)
+    + esta_asignatura_matricula(a: Asignatura): Boolean
+    + remove_asignatura(a: Asignatura)
+    + to_dictionary(): Dictionary
+}
+
+class Profesor {
+   - Date fecha_incorporacion
+   + to_dictionary(): Dictionary
+}
+
+note as N1
+    Los getters y setters son omitidos
+    por claridad en el código.
+    Tampoco añadimos los métodos equals y toString
+end note
+
+@enduml

@@ -1,0 +1,41 @@
+{
+  "dam2": {
+    "profesores": [
+      {
+        "12345678A": {
+          "nombre": "Profesor1",
+          "fecha_nacimiento": "13-02-1900",
+          "fecha_incorporacion": "13-02-2000"
+        }
+      }
+    ],
+    "asignaturas": [
+      {
+        "123": {
+          "nombre": "SGE",
+          "profesor": "12345678A"
+        }
+      }
+    ],
+    "alumnos": [
+      {
+        "1234A": {
+          "nombre": "Luis",
+          "fecha_nacimiento": "13-03-1998",
+          "asignaturas": [
+            "123"
+          ]
+        }
+      },
+      {
+        "12B": {
+          "nombre": "Mar\u00eda",
+          "fecha_nacimiento": "12-05-2000",
+          "asignaturas": [
+            "123"
+          ]
+        }
+      }
+    ]
+  }
+}

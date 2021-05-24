@@ -1,0 +1,32 @@
+{
+  "dam2": {
+    "profesores": [
+      {
+        "05923915N": {
+          "nombre": "Inma",
+          "fecha_nacimiento": "13-03-1980",
+          "fecha_incorporacion": "01-09-2018"
+        }
+      }
+    ],
+    "asignaturas": [
+      {
+        "0491": {
+          "nombre": "SGE",
+          "profesor": "05923915N"
+        }
+      }
+    ],
+    "alumnos": [
+      {
+        "1": {
+          "nombre": "Andr\u00e9s",
+          "fecha_nacimiento": "13-03-1998",
+          "asignaturas": [
+            "0491"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "dam2": {
+    "profesores": {
+      "05923915N": {
+        "nombre": "Inma",
+        "fecha_nacimiento": "13-03-1980",
+        "fecha_incorporacion": "01-09-2018"
+      },
+      "123A": {
+        "nombre": "ProfesorPrueba",
+        "fecha_nacimiento": "12-05-1900",
+        "fecha_incorporacion": "01-09-2000"
+      }
+    },
+    "asignaturas": {
+      "SGE": {
+        "nombre": "SGE",
+        "profesor": "05923915N"
+      }
+    },
+    "alumnos": {
+      "123A": {
+        "nombre": "AlumnoPrueba",
+        "fecha_nacimiento": "13-03-1998",
+        "asignaturas": [
+          "SGE"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+    "Ghibli": {
+        "films": {
+            "Ponyo": {
+                "release_year": 1998,
+                "director": "Hayao Miyazaki"
+            },
+            "Totoro": {
+                "release_year": 1980,
+                "director": "Hayao Miyazaki"
+            }
+        },
+        "people": {
+            "Totoro": {
+                "gender": "Masculino",
+                "age": 100,
+                "film": "Totoro",
+                "specie": "Totoro"
+            },
+            "Ponyo": {
+                "gender": "Pez",
+                "age": 5,
+                "film": "Ponyo",
+                "specie": "Pez"
+            }
+        },
+        "vehicles": {
+            "Coche": {
+                "pilot": "Totoro",
+                "film": "Totoro"
+            }
+        }
+    }
+}
