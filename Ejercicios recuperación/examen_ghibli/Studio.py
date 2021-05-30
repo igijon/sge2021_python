@@ -66,7 +66,7 @@ class Studio():
         elements = False
         n = 0
         while not elements and n < len(elements_list):
-            if elements_list[n].film == film:
+            if elements_list[n].film == film: 
                 elements = True
             else:
                 n+=1

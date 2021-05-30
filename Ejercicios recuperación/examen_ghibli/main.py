@@ -8,7 +8,7 @@ import json
 
 def print_menu_principal():
     print("********Studio Ghibli********")
-    print("1. Crear studio vací")
+    print("1. Crear studio vacío")
     print("2. Cargar studio de un fichero")
     print("3. Salir")
     opcion = leer_entero("Opcion: ", 1, 3)

@@ -125,9 +125,6 @@ def search_film_studio_dict(studio_id, studio_dict, **kwargs):
         film_buscado = True
         for title, film_dict in films_dict.items():
             for name, value in kwargs.items():
-                print(name)
-                print(value)
-                print(film_dict["release_year"]==value)
                 if film_buscado and value != "" and film_dict[name] != value: film_buscado = False
             if film_buscado:
                 resultadosBusqueda.append({title: film_dict})
